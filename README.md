@@ -5,4 +5,4 @@ Obs: Foi utilizado o XAMPP
 Requisitos:<br/>
 1 - Criar um banco de dados chamado "bd_treino" ou de sua escolha no phpMyAdmin para armazenagem dos dados.<br/>
 2 - Criar um tabela chamada "tb_prova" ou de sua escolha.<br/>
-Caso você tenha criado o banco de dados ou tabela com nome diferente, os arquivos "conexao.inc" e "dados.php" devem ser alterados
+- Caso você tenha criado o banco de dados ou tabela com nome diferente, os arquivos "conexao.inc" e "dados.php" devem ser alterados
